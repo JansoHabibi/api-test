@@ -1,7 +1,7 @@
 {
   "użytkownik": {
     "id": 101,
-    "imię": "Jan",
+    "imie": "Jan",
     "rola": "administrator"
   },
   "ustawienia": {
@@ -10,3 +10,4 @@
   },
   "status": "aktywny"
 }
+
