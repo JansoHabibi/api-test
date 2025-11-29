@@ -1,1 +1,12 @@
-
+{
+  "użytkownik": {
+    "id": 101,
+    "imię": "Jan",
+    "rola": "administrator"
+  },
+  "ustawienia": {
+    "powiadomienia": true,
+    "język": "pl-PL"
+  },
+  "status": "aktywny"
+}
