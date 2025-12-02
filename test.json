@@ -1,13 +1,18 @@
 {
-  "użytkownik": {
-    "id": 101,
-    "imie": "Jan",
-    "rola": "administrator"
-  },
-  "ustawienia": {
-    "powiadomienia": true,
-    "język": "pl-PL"
-  },
-  "status": "aktywny"
+  "uzytkownicy": [
+    {
+      "nazwa": "adam",
+      "subskrypcja": "tak",
+      "data_konca_subskrypcji": "01.01.10101",
+      "login": "login123",
+      "haslo": "haslo123"
+    },
+    {
+      "nazwa": "michał",
+      "subskrypcja": "tak",
+      "data_konca_subskrypcji": "01.01.10101",
+      "login": "login123",
+      "haslo": "haslo123"
+    }
+  ]
 }
-
